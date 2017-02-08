@@ -1,0 +1,2 @@
+"# Travis" KappaBuild [![Build Status](https://travis-ci.org/aspiraboo/kappa.svg?branch=master)](https://travis-ci.org/aspiraboo/kappa) "# AppVeyor"![Build status](https://ci.appveyor.com/api/projects/status/rc24qkfnvtf885qt?svg=true)] "# coveralls" [![Coverage Status](https://coveralls.io/repos/github/aspiraboo/kappa/badge.svg?branch=master)](https://coveralls.io/github/aspiraboo/kappa?branch=master)
+"# kappaPride" 
